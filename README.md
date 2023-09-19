@@ -7,5 +7,5 @@ O approach ao livro tem intuito educacional, com alterações verbais em alguns 
 ## Bibliotecas
 Conforme utilizadas, serão indicadas as instalações de determinadas bibliotecas
 ## 
-
+![image](https://github.com/thiagocaveglion/classical_cc_problems_python/assets/107949964/f473dec6-5a2c-486a-b7bd-8f7ab1ff5542)
 
